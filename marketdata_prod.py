@@ -3,7 +3,6 @@ import requests
 import json
 import streamlit as st
 import socketio
-import jwt
 
 # Streamlit app layout
 st.title("API Testing")
